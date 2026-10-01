@@ -343,3 +343,11 @@ footer{background:var(--ink)}.footer-logo{font-family:var(--heading);font-weight
   width:100%;
   height:auto;
 }
+
+/* Mission 22 — nouveau logo expérimental dans l'en-tête uniquement. */
+.header .logo>.header-logo-image{
+  display:block;
+  height:43px;
+  width:auto;
+  flex-shrink:0;
+}
